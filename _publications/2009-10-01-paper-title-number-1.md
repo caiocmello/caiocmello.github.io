@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-04-04-politial-patterns-news
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-04-04
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/document/9749092/'
+citation: 'A. Sittar, D. Major, C. Mello, D. Mladenić and M. Grobelnik, "Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination," in <i> IEEE Access </i>, vol. 10, pp. 40036-40050, 2022, doi: 10.1109/ACCESS.2022.3164692.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The purpose of this study is to analyse COVID-19 related news published across different geographical places, in order to gain insights in reporting differences. We performed pooling of news articles based on information retrieval using TF-IDF score in a data processing step and topic modeling using LDA with combination of 1 to 6 ngrams. We used VADER sentiment analyzer to explore the differences in sentiments in news articles reported across different geographical places. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9749092/)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: A. Sittar, D. Major, C. Mello, D. Mladenić and M. Grobelnik, "Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination," in <i> IEEE Access </i>, vol. 10, pp. 40036-40050, 2022, doi: 10.1109/ACCESS.2022.3164692.
