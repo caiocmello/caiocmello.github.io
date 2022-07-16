@@ -12,7 +12,7 @@ collection: portfolio
 
 ### Podcast
 
-BSSH Sport in History Podcast by British Society of Sports History<br/>
+Sport in History Podcast by <i>British Society of Sports History</i><br/>
 
 Episode: Documenting the Olympics and the Paralympics<br/>
 
