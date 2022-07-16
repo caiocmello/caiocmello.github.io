@@ -2,7 +2,7 @@
 title: "Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination"
 collection: publications
 permalink: /publication/2022-04-04-politial-patterns-news
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The purpose of this study is to analyse COVID-19 related news published across different geographical places, in order to gain insights in reporting differences. We performed pooling of news articles based on information retrieval using TF-IDF score in a data processing step and topic modeling using LDA with combination of 1 to 6 ngrams. We used VADER sentiment analyzer to explore the differences in sentiments in news articles reported across different geographical places.'
 date: 2022-04-04
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9749092/'
