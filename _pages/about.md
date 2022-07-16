@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ### About me
 
 I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I work as an early-stage researcher at the University of London for the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. 
@@ -35,12 +44,3 @@ To see my publication record please check out my [ORCID profile](https://orcid.o
 - [Dataset](https://github.com/caiocmello/sentiment-annotation-olympic-news): Sentiment Analysis annotation of News Articles covering the Olympic legacy of Rio 2016 and London 2012.
 - [Tool](https://github.com/cleopatra-itn/TIME): TIME: Temporal Discourse Analysis applied to Media Articles.
 
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
