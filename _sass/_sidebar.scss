@@ -75,6 +75,21 @@
   width: 200px;
   height: 260px;
   // set width only, for non-square avatars
+ 
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 110px;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
 }
 
 
