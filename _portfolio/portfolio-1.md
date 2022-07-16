@@ -1,6 +1,6 @@
 ---
 title: "The archived Olympics: exploring the narratives of Legacy in the UK Web Archive"
-excerpt: "Documentation of the study conducted as part of a placement at the British Library (UK Web Archive - UKWA) under the project CLEOPATRA. The main objective is making use of the UKWA to explore the different approaches taken by news organisations, government websites and activist blogs to the legacy of the 2012 London Olympics. <br/><img src='/images/webarchive.png'>"
+excerpt: "Documentation of the study conducted as part of a placement at the British Library (UK Web Archive - UKWA) under the project CLEOPATRA. The main objective is making use of the UKWA to explore the different approaches taken by news organisations, government websites and activist blogs to the legacy of the 2012 London Olympics. <br/><br/><img src='/images/webarchive.png'>"
 collection: portfolio
 ---
 ### Blogposts
