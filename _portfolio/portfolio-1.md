@@ -12,9 +12,9 @@ collection: portfolio
 
 ### Podcast
 
-BSSH Sport in History Podcast by British Society of Sports History
+BSSH Sport in History Podcast by British Society of Sports History<br/>
 
-Episode: Documenting the Olympics and the Paralympics
+Episode: Documenting the Olympics and the Paralympics<br/>
 
 About: Recording of the [event](https://blogs.bl.uk/socialscience/2021/06/olympics-paralympics.html) organised by the British Library in collaboration with the British Society of Sports History (BSSH), the International Centre for Sports History and Culture at De Montfort University (ICSHC) and the School of Advanced Study (SAS)/CLEOPATRA project.
 
