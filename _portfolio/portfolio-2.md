@@ -1,5 +1,5 @@
 ---
-title: "Occupying Facebook"
+title: "Occupying Facebook: Social Movements, Performativity and Engagement"
 excerpt: "Documentation of a study on the use of Facebook Events by Occupy Movements in Brazil to promote engagement in demonstrations<br/><br/><img src='/images/occupy.png'>"
 collection: portfolio
 ---
