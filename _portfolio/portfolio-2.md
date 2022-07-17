@@ -7,7 +7,7 @@ collection: portfolio
 
 ### CAIS Fellowship Report | #OccupyEstelita: The Emergence of Identity as Part of Political Performativity in the Use of Facebook Events by Social Movements 
 <br/>
-About: This is the report from a fellowship at the Cener of Advanced Internet Studies (CAIS), Bochum - Germany. This project investigates the following question: How is the perception of a political self-identity affected by the usage of Social Networks? 
+About: This is the report from a fellowship at the Center of Advanced Internet Studies (CAIS), Bochum - Germany. This project investigates the following question: How is the perception of a political self-identity affected by the usage of Social Networks? 
 <br/>
 
 <object data="https://www.cais.nrw/wp-94fa4-content/uploads/CAIS_Report/Mello-2018-Political-Performativity-CAIS-Report.pdf" width="1000" height="1000" type='application/pdf'></object>
