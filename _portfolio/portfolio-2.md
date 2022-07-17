@@ -1,6 +1,6 @@
 ---
 title: "Occupying Facebook: social movements, performativity and engagement"
-excerpt: "Documentation of a study conducted during my Master's in Communication, UFPE - Brazil, and Fellowship placement at CAIS - Germany. This research is on the use of Facebook Events by Occupy Movements in Brazil to promote engagement in demonstrations<br/><br/><img src='/images/occupy.png'>"
+excerpt: "Documentation of a study conducted during my Master's in Communication, UFPE - Brazil, and Fellowship placement at CAIS - Germany. This research explores the use of Facebook Events by Occupy Movements in Brazil to promote engagement in demonstrations<br/><br/><img src='/images/occupy.png'>"
 collection: portfolio
 ---
 #### This study has received funding from the Center of Advanced Internet Studies (CAIS) via the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen & Foundation for the Support of Science and Technology in Pernambuco (FACEPE - Brazil)
