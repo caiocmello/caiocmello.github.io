@@ -14,7 +14,7 @@ About: <br/>
 ### Paper | Facebook Event as a platform to promote engagement in social movements: Theory of performativity applied to social networks<br/>
 About: <br/>
 
-<object data="https://github.com/caiocmello/caiocmello.github.io/blob/master/files/artigoestelita.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://caiocmello.github.io/files/artigoestelita.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br/><br/>
 ### Book Chapter <i>(in Portuguese)</i> | Performativity and conflicts between the ocupation of real and virtual spaces: a study of the Facebook Events' platform <br/>
