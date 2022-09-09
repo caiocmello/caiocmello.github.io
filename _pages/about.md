@@ -27,6 +27,8 @@ My main research interests lie in the fields of digital methods, Natural Languag
 To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237).
 
 ### Other publications and blog posts
+- [When the Games are over: What can Birmingham learn from the legacy of London 2012?](https://www.london.ac.uk/news-and-opinion/when-games-are-over-what-can-birmingham-learn-legacy-london-2012), University of London News Website
+- [Is sentiment in the news becoming more negative over time?](https://github.com/caiocmello/news-mood), Summer Institute of Computational Social Science (SICSS) -  TU Graz & RWTH Aachen
 - [London’s Olympic Legacy: Local, National and International Aspirations](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html), UK Web Archive Blog - British Library
 - [#OccupyEstelita: The Emergence of Identity as Part of Political Performativity in the Use of Facebook Events by Social Movements](https://www.cais.nrw/wp-94fa4-content/uploads/CAIS_Report/Mello-2018-Political-Performativity-CAIS-Report.pdf), Center for Advanced Internet Studies - CAIS Fellowship Report 
 - [Exploring media events with Shine](https://blogs.bl.uk/webarchive/2020/10/exploring-media-events-with-shine.html), UK Web Archive Blog - British Library
@@ -43,4 +45,5 @@ To see my publication record please check out my [ORCID profile](https://orcid.o
 
 - [Dataset](https://github.com/caiocmello/sentiment-annotation-olympic-news): Sentiment Analysis annotation of News Articles covering the Olympic legacy of Rio 2016 and London 2012.
 - [Tool](https://github.com/cleopatra-itn/TIME): TIME: Temporal Discourse Analysis applied to Media Articles.
+- [Dataset](https://zenodo.org/record/6927800#.YxtKdHbMLD4): News headlines of BBC articles published by @BBCBreaking twitter account
 
