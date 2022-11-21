@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I work as an early-stage researcher at the University of London for the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. 
 
-I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). I was also a fellow researcher at [CAIS - Center for Advanced Internet Studies](https://www.cais.nrw/fellows/fellow_mello/) in Bochum, Germany. I currently collaborate with [Programming Historian](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) as reviewer and translator.  
+I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). I was also a fellow researcher at [CAIS - Center for Advanced Internet Studies](https://www.cais-research.de/fellows/caio-castro-mello/) in Bochum, Germany. I currently collaborate with [Programming Historian](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) as reviewer and translator.  
 
 
 ### My research
