@@ -10,7 +10,7 @@ collection: portfolio
 About: This is the report from a fellowship at the Center of Advanced Internet Studies (CAIS), Bochum - Germany. This project investigates the following question: How is the perception of a political self-identity affected by the usage of Social Networks? 
 <br/>
 
-<object data="https://www.cais.nrw/wp-94fa4-content/uploads/CAIS_Report/Mello-2018-Political-Performativity-CAIS-Report.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://drive.google.com/file/d/1c2RZq7Phg9pRe-51k5EDMwtmgTctyA1-/view?usp=sharing" width="1000" height="1000" type='application/pdf'></object>
 
 <br/><br/>
 ### Paper | Facebook Event as a platform to promote engagement in social movements: Theory of performativity applied to social networks
