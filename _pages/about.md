@@ -29,18 +29,7 @@ Latest publications:
 - [Combining sentiment analysis classifiers to explore multilingual news articles covering London 2012 and Rio 2016 Olympics](https://link.springer.com/article/10.1007/s42803-022-00052-9), International Journal of Digital Humanities (2022)
 - [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092), IEEE Access (2022)
 
-To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237).
-
-### Other publications and blog posts
-- [When the Games are over: What can Birmingham learn from the legacy of London 2012?](https://www.london.ac.uk/news-and-opinion/when-games-are-over-what-can-birmingham-learn-legacy-london-2012), University of London News Website
-- [Is sentiment in the news becoming more negative over time?](https://github.com/caiocmello/news-mood), Summer Institute of Computational Social Science (SICSS) -  TU Graz & RWTH Aachen
-- [London’s Olympic Legacy: Local, National and International Aspirations](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html), UK Web Archive Blog - British Library
-- [#OccupyEstelita: The Emergence of Identity as Part of Political Performativity in the Use of Facebook Events by Social Movements](https://www.cais.nrw/wp-94fa4-content/uploads/CAIS_Report/Mello-2018-Political-Performativity-CAIS-Report.pdf), Center for Advanced Internet Studies - CAIS Fellowship Report 
-- [Exploring media events with Shine](https://blogs.bl.uk/webarchive/2020/10/exploring-media-events-with-shine.html), UK Web Archive Blog - British Library
-- [Data visualisation for Brazilian news](https://saude.ig.com.br/coronavirus/2020-07-15/rio-de-janeiro-lidera-taxa-de-letalidade-covid-19-no-brasil.html), IG News
-- [A study of Black Lives Matter protests on TikTok using the digital snowball method](https://wiki.digitalmethods.net/Dmi/SummerSchool2020CuratingPoliticsonTikTok), Digital Methods Summer School - Universiteit van Amsterdam
-- [Boris Johnson, fertility and the royal baby: how far does the concept of Olympic Legacy go?](https://blogs.bl.uk/webarchive/2020/03/boris-johnson-fertility-and-the-royal-baby-how-far-does-the-concept-of-olympic-legacy-go.html), UK Web Archive Blog - British Library
-- [What is left behind? Exploring the Olympic Games legacies through the UK Web Archive](https://blogs.bl.uk/webarchive/2019/12/what-is-left-behind-exploring-the-olympic-games-legacies-through-the-uk-web-archive-.html), UK Web Archive Blog - British Library
+To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237). For blogposts and research reports [click here](https://www.clippings.me/caiomello)
 
 ### Workshop/Teaching
 
