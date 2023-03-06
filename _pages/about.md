@@ -34,7 +34,7 @@ My main research interests lie in the fields of digital methods, Natural Languag
 
 ### Workshop/Teaching
 
-[Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2022) - with Dr. Christopher Ohge.
+[Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2021 - 2023) - with Dr. Christopher Ohge.
 
 ### Code & Data
 
