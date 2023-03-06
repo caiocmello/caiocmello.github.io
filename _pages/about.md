@@ -24,12 +24,13 @@ My main research interests lie in the fields of digital methods, Natural Languag
 
 ### Publications
 
-Latest publications:
+#### Latest publications:
 
 - [Combining sentiment analysis classifiers to explore multilingual news articles covering London 2012 and Rio 2016 Olympics](https://link.springer.com/article/10.1007/s42803-022-00052-9), International Journal of Digital Humanities (2022)
 - [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092), IEEE Access (2022)
 
-To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237). For blogposts and research reports [click here](https://www.clippings.me/caiomello)
+#### To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237). 
+#### For blogposts and research reports [click here](https://www.clippings.me/caiomello)
 
 ### Workshop/Teaching
 
