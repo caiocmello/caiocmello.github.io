@@ -52,3 +52,7 @@ To see my publication record please check out my [ORCID profile](https://orcid.o
 - [Tool](https://github.com/cleopatra-itn/TIME): TIME: Temporal Discourse Analysis applied to Media Articles.
 - [Dataset](https://zenodo.org/record/6927800#.YxtKdHbMLD4): News headlines of BBC articles published by @BBCBreaking twitter account
 
+### Upcoming Talks & Events
+- 23.03.2023 Reframing Failure: It’s Complicated - Collaborations and Partnerships, Digital Humanities Research Hub - School of Advanced Study [book now](https://www.sas.ac.uk/events/reframing-failure-its-complicated-collaborations-and-partnerships)
+- 24.05.2023 Interpreting the results of Sentiment Analysis algorithms to categorise emotions discoursively expressed in news articles, Center for Advanced Internet Studies [book now](https://www.cais-research.de/event/interpreting-the-results-of-sentiment-analysis-algorithms-to-categorise-emotions-discoursively-expressed-in-news-articles/)
+
