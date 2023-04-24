@@ -46,9 +46,6 @@ My main research interests lie in the fields of digital methods, Natural Languag
 
 - 24.05.2023 Interpreting the results of Sentiment Analysis algorithms to categorise emotions discoursively expressed in news articles, Center for Advanced Internet Studies [book now](https://www.cais-research.de/event/interpreting-the-results-of-sentiment-analysis-algorithms-to-categorise-emotions-discoursively-expressed-in-news-articles/)
 
-#### Previous Talks & Events
 
-- 23.03.2023 Reframing Failure: It’s Complicated - Collaborations and Partnerships, Digital Humanities Research Hub - School of Advanced Study [watch recording here](https://www.youtube.com/watch?v=s3fPNbShOCM)
-- 14.03.2023 Concepts of Digital Humanities, School of Advanced Study Research Training [book now](https://www.sas.ac.uk/events/concepts-digital-humanities-1) 
 
 
