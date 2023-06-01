@@ -16,13 +16,13 @@ I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk
 
 ### My research
 
-- ### - at CAIS
+- ### at CAIS
 
 _Interpreting sentiment analysis outputs to categorise emotions in news articles_
 
 Sentiment analysis (SA) is one of the techniques commonly used in Natural Language Processing. These algorithms classify words in a scale of sentiment that usually goes from negative to positive. These techniques have been mostly applied to twitter data or customer feedback to track reception of products. However, researchers in the humanities have been using the algorithms to explore other kinds of text, such as news articles to understand the tone in which some media events are narrated. This kind of use of the SA present several challenges. Questions arise on to what extent the SA scores are reliable or how they can be used for interpretation (qualitative analysis) and discourse analysis. This project aims to investigate how these techniques have been applied to the study of media events, identifying its limitations and potentialities, making use of explainable AI and qualitative analysis of SA outputs in a multilingual text corpus.
 
-### - PhD research
+- ### PhD research
 
 This research is part of the CLEOPATRA project, which aims to explore major events that influence and shape our lives and our societies through advanced cross-lingual processing of textual and visual information.  
 
