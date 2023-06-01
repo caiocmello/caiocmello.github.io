@@ -15,6 +15,7 @@ I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk
 
 
 ### My research
+My main research interests lie in the fields of digital methods, Natural Language Processing techniques (NLP), data visualisation, media studies, urban studies and digital activism. 
 
 - ### at CAIS
 
@@ -26,9 +27,7 @@ Sentiment analysis (SA) is one of the techniques commonly used in Natural Langua
 
 _Nationalism, internationalism and sporting identity: the London and Rio Olympics_
 
-My project explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. This research is conducted under the supervision of [Professor Jane Winters](https://research.sas.ac.uk/search/staff/126/professor-jane-winters) and [Martin Steer](https://research.sas.ac.uk/search/staff/405/mr-marty-steer/). This research is part of the CLEOPATRA project, which aims to explore major events that influence and shape our lives and our societies through advanced cross-lingual processing of textual and visual information.  
-
-My main research interests lie in the fields of digital methods, Natural Language Processing techniques (NLP), data visualisation, media studies, urban studies and digital activism. 
+My research explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. This research is conducted under the supervision of [Professor Jane Winters](https://research.sas.ac.uk/search/staff/126/professor-jane-winters) and [Martin Steer](https://research.sas.ac.uk/search/staff/405/mr-marty-steer/). This research is part of the CLEOPATRA project, which aims to explore major events that influence and shape our lives and our societies through advanced cross-lingual processing of textual and visual information.  
 
 ### Publications
 
