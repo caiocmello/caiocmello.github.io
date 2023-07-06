@@ -42,6 +42,7 @@ My research explores the media coverage of the Olympic Games in a cross-cultural
 ### Workshop/Teaching
 
 [Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2021 - 2023) - with Dr. Christopher Ohge.
+[Introduction to Sentiment Analysis: Potentials and limitations](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) Center for Advanced Internet Studies (July 2023)
 
 ### Code & Data
 
@@ -51,7 +52,7 @@ My research explores the media coverage of the Olympic Games in a cross-cultural
 
 ### Upcoming Talks & Events
 
-- 24.05.2023 Interpreting the results of Sentiment Analysis algorithms to categorise emotions discoursively expressed in news articles, Center for Advanced Internet Studies [book now](https://www.cais-research.de/event/interpreting-the-results-of-sentiment-analysis-algorithms-to-categorise-emotions-discoursively-expressed-in-news-articles/)
+- 24.05.2023 Interpreting the results of Sentiment Analysis algorithms to categorise emotions discursively expressed in news articles, Center for Advanced Internet Studies [book now](https://www.cais-research.de/event/interpreting-the-results-of-sentiment-analysis-algorithms-to-categorise-emotions-discoursively-expressed-in-news-articles/)
 
 
 
