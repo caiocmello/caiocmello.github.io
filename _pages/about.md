@@ -41,8 +41,8 @@ My research explores the media coverage of the Olympic Games in a cross-cultural
 
 ### Workshop/Teaching
 
-[Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2021 - 2023) - with Dr. Christopher Ohge.
-[Introduction to Sentiment Analysis: Potentials and limitations](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) Center for Advanced Internet Studies (July 2023)
+- [Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2021 - 2023) - with Dr. Christopher Ohge.
+- [Introduction to Sentiment Analysis: Potentials and limitations](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) Center for Advanced Internet Studies (July 2023)
 
 ### Code & Data
 
