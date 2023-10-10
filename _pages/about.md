@@ -52,7 +52,7 @@ My research explores the media coverage of the Olympic Games in a cross-cultural
 
 ### Upcoming Talks & Events
 
-- 24.05.2023 Interpreting the results of Sentiment Analysis algorithms to categorise emotions discursively expressed in news articles, Center for Advanced Internet Studies [book now](https://www.cais-research.de/event/interpreting-the-results-of-sentiment-analysis-algorithms-to-categorise-emotions-discoursively-expressed-in-news-articles/)
+- 08.11.2023 Concepts of Digital Humanities Workshop [Book now](https://www.sas.ac.uk/events/concepts-digital-humanities-3)
 
 
 
