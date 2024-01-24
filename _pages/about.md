@@ -9,19 +9,15 @@ redirect_from:
 ---
 ### About me
 
-I am currently a Research Fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) and a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I worked over the last four years at the School of Advanced Study, University of London, as an early-stage researcher where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. 
+I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I also hold the post of editor of the Programming Historian in English, with which I have also previously collaborated [Programming Historian](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) as reviewer and translator.  
 
-I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). I currently collaborate with [Programming Historian](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) as reviewer and translator.  
+I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I worked over the last four years at the School of Advanced Study, University of London, as an early-stage researcher, where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. I've also been a research fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) in Bochum, Germany.   
+
+During my PhD, I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). 
 
 
 ### My research
 My main research interests lie in the fields of digital methods, Natural Language Processing techniques (NLP), data visualisation, media studies, urban studies and digital activism. 
-
-- ### at CAIS
-
-_Interpreting sentiment analysis outputs to categorise emotions in news articles_
-
-Sentiment analysis (SA) is one of the techniques commonly used in Natural Language Processing. Although it has been mostly applied to twitter data or customer feedback to track reception of products, researchers in the humanities have been using the algorithms to explore other kinds of text, such as news articles to understand the tone in which some media events are narrated. This kind of use of the SA present several challenges. Questions arise on to what extent the SA scores are reliable or how they can be used for interpretation (qualitative analysis) and discourse analysis. This project aims to investigate how these techniques have been applied to the study of media events, identifying its limitations and potentialities, making use of explainable AI and qualitative analysis of SA outputs in a multilingual text corpus.
 
 - ### PhD research
 
@@ -29,15 +25,24 @@ _Nationalism, internationalism and sporting identity: the London and Rio Olympic
 
 My research explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. This research is conducted under the supervision of [Professor Jane Winters](https://research.sas.ac.uk/search/staff/126/professor-jane-winters) and [Martin Steer](https://research.sas.ac.uk/search/staff/405/mr-marty-steer/). The study is part of the CLEOPATRA project, which aims to explore major events that influence and shape our lives and our societies through advanced cross-lingual processing of textual and visual information.  
 
+- ### at CAIS
+
+_Interpreting sentiment analysis outputs to categorise emotions in news articles_
+
+Sentiment analysis (SA) is one of the techniques commonly used in Natural Language Processing. Although it has been mostly applied to twitter data or customer feedback to track reception of products, researchers in the humanities have been using the algorithms to explore other kinds of text, such as news articles to understand the tone in which some media events are narrated. This kind of use of the SA present several challenges. Questions arise on to what extent the SA scores are reliable or how they can be used for interpretation (qualitative analysis) and discourse analysis. This project aims to investigate how these techniques have been applied to the study of media events, identifying its limitations and potentialities, making use of explainable AI and qualitative analysis of SA outputs in a multilingual text corpus.
+
 ### Publications
 
 #### Latest publications:
 
+- [Data Scarcity and Methodological Limitations in Multilingual Analysis of News Articles Published in Brazil](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003393696-14/data-scarcity-methodological-limitations-multilingual-analysis-news-articles-published-brazil-caio-mello), In _Multilingual Digital Humanities_, Routledge (2023)
 - [Combining sentiment analysis classifiers to explore multilingual news articles covering London 2012 and Rio 2016 Olympics](https://link.springer.com/article/10.1007/s42803-022-00052-9), International Journal of Digital Humanities (2022)
 - [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092), IEEE Access (2022)
 
 #### To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237). 
 #### For blogposts and research reports [click here](https://www.clippings.me/caiomello)
+
+<br>
 
 ### Workshop/Teaching
 
