@@ -70,14 +70,10 @@ Sentiment analysis (SA) is one of the techniques commonly used in Natural Langua
 - 10.07.2023 Workshop: Introduction to Sentiment Analysis, Center for Advanced Internet Studies
 - 24.05.2023 Interpreting the results of Sentiment Analysis algorithms to categorise emotions discursively expressed in news articles, Center for Advanced Internet Studies 
 - 23.03.2023 Reframing Failure: It’s Complicated - Collaborations and Partnerships, Digital Humanities Research Hub - School of Advanced Study [watch recording here](https://www.youtube.com/watch?v=s3fPNbShOCM)
-- 14.03.2023 Workshop: Concepts of Digital Humanities, School of Advanced Study Research Training
 - 24.11.2022 Tutorial on webscraping for web archives, British Library
 - 10.10.2022 Before, During and After: A Bilingual Temporal Sentiment Analysis of the Media Coverage of Rio and London Olympic Legacies, Digital Humanities Congress Sheffield
 - 29.04.2022 The problem of missing data: Critical Practices in Humanities Research, Stanford University (CESTA) & School of Advanced Study (DHRH)
-- 24.02.2022 Workshop: Concepts of Digital Humanities, School of Advanced Study Research Training
-- 11.01.2022 The media coverage of London 2012 and Rio 2016 Olympic legacies: Exploring news articles with Natural Language Processing, SAS Postgraduate Research Seminar
-- 11.11.2021 Workshop: Concepts of Digital Humanities workshop, School of Advanced Study Research Training
-- 07.07.2021 Local, National and International aspiration: framing London's Olympic legacy by combining multiple sources in SHINE, Documenting the Olympics and Paralympics, SAS/British Library
+- 07.07.2021 Local, National and International aspiration: framing London's Olympic legacy by combining multiple sources in SHINE, Documenting the Olympics and Paralympics, British Library
 - 22.09.2020 Tracking and analysing media events through web archives’, Engaging with web archives conference, Maynooth University Arts and Humanities Institute
 
 
