@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### About me
 
-I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I also hold the post of editor of the Programming Historian in English, with which I have also previously collaborated [Programming Historian](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) as reviewer and translator.  
+I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I also hold the post of editor of the Programming Historian in English, with which I have previously collaborated as [reviewer and translator](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados).  
 
 I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I worked over the last four years at the School of Advanced Study, University of London, as an early-stage researcher, where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. I've also been a research fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) in Bochum, Germany.   
 
@@ -52,7 +52,7 @@ Sentiment analysis (SA) is one of the techniques commonly used in Natural Langua
 - [Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2021 - 2023) - with Dr. Christopher Ohge.
 - [Introduction to Sentiment Analysis: Potentials and limitations](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) Center for Advanced Internet Studies (July 2023)
 
-<br>
+
 
 ### Code & Data
 
