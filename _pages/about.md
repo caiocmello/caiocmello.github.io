@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### About me
 
-I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I also hold the post of editor of the Programming Historian in English, with which I have previously collaborated as [reviewer and translator](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados).  
+I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I also hold the post of editor of the Programming Historian in English, with which I have previously collaborated as [reviewer](https://programminghistorian.org/pt/licoes/introducao-jupyter-notebooks) and [translator](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados).  
 
 I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I worked over the last four years at the School of Advanced Study, University of London, as an early-stage researcher, where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. I've also been a research fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) in Bochum, Germany.   
 
