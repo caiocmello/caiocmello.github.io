@@ -15,6 +15,7 @@ I hold a BA in Journalism and a MA in Communication, both from the Universidade 
 
 During my PhD, I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). 
 
+<br>
 
 ### My research
 My main research interests lie in the fields of digital methods, Natural Language Processing techniques (NLP), data visualisation, media studies, urban studies and digital activism. 
@@ -30,6 +31,8 @@ My research explores the media coverage of the Olympic Games in a cross-cultural
 _Interpreting sentiment analysis outputs to categorise emotions in news articles_
 
 Sentiment analysis (SA) is one of the techniques commonly used in Natural Language Processing. Although it has been mostly applied to twitter data or customer feedback to track reception of products, researchers in the humanities have been using the algorithms to explore other kinds of text, such as news articles to understand the tone in which some media events are narrated. This kind of use of the SA present several challenges. Questions arise on to what extent the SA scores are reliable or how they can be used for interpretation (qualitative analysis) and discourse analysis. This project aims to investigate how these techniques have been applied to the study of media events, identifying its limitations and potentialities, making use of explainable AI and qualitative analysis of SA outputs in a multilingual text corpus.
+
+<br>
 
 ### Publications
 
@@ -49,11 +52,15 @@ Sentiment analysis (SA) is one of the techniques commonly used in Natural Langua
 - [Concepts of Digital Humanities Workshop](https://port.sas.ac.uk/course/view.php?id=180&section=1) School of Advanced Study, University of London (2021 - 2023) - with Dr. Christopher Ohge.
 - [Introduction to Sentiment Analysis: Potentials and limitations](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) Center for Advanced Internet Studies (July 2023)
 
+<br>
+
 ### Code & Data
 
 - [Dataset](https://github.com/caiocmello/sentiment-annotation-olympic-news): Sentiment Analysis annotation of News Articles covering the Olympic legacy of Rio 2016 and London 2012.
 - [Tool](https://github.com/cleopatra-itn/TIME): TIME: Temporal Discourse Analysis applied to Media Articles.
 - [Dataset](https://zenodo.org/record/6927800#.YxtKdHbMLD4): News headlines of BBC articles published by @BBCBreaking twitter account
+
+<br>
 
 ### Upcoming Talks & Events
 
