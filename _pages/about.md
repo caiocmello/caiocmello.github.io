@@ -13,7 +13,7 @@ I am currently a Ph.D. student in Digital Humanities at the [School of Advanced 
 
 I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I worked over the last four years at the School of Advanced Study, University of London, as an early-stage researcher, where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. I've also been a research fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) in Bochum, Germany. During my PhD, I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). 
 
-Alongside my main activities as a researcher, I sporadically write [news articles](https://www.clippings.me/caiocmello). My main interests as a journalist are history and arts. When not reading, writing or coding, I'm usually playing music or looking for a nice pool in the area to jump in.  
+Alongside my main activities as a researcher, I sporadically write [news stories](https://www.clippings.me/caiocmello). My main interests as a journalist are history and arts. When not reading, writing or coding, I'm usually playing music or looking for a nice pool in the area to jump in.  
 
 <br>
 
