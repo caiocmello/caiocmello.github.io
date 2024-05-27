@@ -6,29 +6,10 @@ collection: portfolio
 ---
 ###### This study was conducted under the CLEOPATRA project. It has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 812997, and the Center for Advanced Internet Studies (CAIS) via the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen (2023).
 
-### Blogposts
-
-- [London’s Olympic Legacy: Local, National and International Aspirations](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html), UK Web Archive Blog - British Library
-- [Exploring media events with Shine](https://blogs.bl.uk/webarchive/2020/10/exploring-media-events-with-shine.html), UK Web Archive Blog - British Library
-- [Boris Johnson, fertility and the royal baby: how far does the concept of Olympic Legacy go?](https://blogs.bl.uk/webarchive/2020/03/boris-johnson-fertility-and-the-royal-baby-how-far-does-the-concept-of-olympic-legacy-go.html), UK Web Archive Blog - British Library
-- [What is left behind? Exploring the Olympic Games legacies through the UK Web Archive](https://blogs.bl.uk/webarchive/2019/12/what-is-left-behind-exploring-the-olympic-games-legacies-through-the-uk-web-archive-.html), UK Web Archive Blog - British Library
-
-### Podcast
-
-Sport in History Podcast by <i>British Society of Sports History</i><br/>
-
-Episode: Documenting the Olympics and the Paralympics<br/>
-
-About: Recording of the [event](https://blogs.bl.uk/socialscience/2021/06/olympics-paralympics.html) organised by the British Library in collaboration with the British Society of Sports History (BSSH), the International Centre for Sports History and Culture at De Montfort University (ICSHC) and the School of Advanced Study (SAS)/CLEOPATRA project.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5zDSk4JsfOvO8Jq4Aq1cXL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-### Video
-
-UK Web Archive conference 2022 - An event about web archiving aimed at staff from UK Legal Deposit Libraries.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9XbCcVqXVeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### CAIS Fellowship Report | #OccupyEstelita: The Emergence of Identity as Part of Political Performativity in the Use of Facebook Events by Social Movements 
 <br/>
-Engaging with Web Archives [Conference 2020](https://blogs.bl.uk/webarchive/2020/10/engaging-with-web-archives-conference-report.html)
+About: This is the report from a fellowship at the Center of Advanced Internet Studies (CAIS), Bochum - Germany. This project investigates the following question: How is the perception of a political self-identity affected by the usage of Social Networks? 
+<br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/25_1nuvFXtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<object data="https://clippingsme-assets-1.s3.amazonaws.com/cuttingpdfs/1663946/a093d54ff97794c122d03e130960db76.pdf?" width="1000" height="1000" type='application/pdf'></object>
+
