@@ -3,7 +3,7 @@ title: "Occupying Facebook: social movements, performativity and engagement"
 excerpt: "This study was conducted during my Master's in Communication at the Universidade Federal de Pernambuco (UFPE - Brazil), and a Fellowship placement at the Center for Advanced Internet Studies (CAIS - Germany). It explores the use of Facebook Events by Occupy Movements in Brazil to promote engagement in demonstrations on the streets<br/><br/><img src='/images/occupy.png'>"
 collection: portfolio
 ---
-#### This study has received funding from the Center of Advanced Internet Studies (CAIS) via the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen & Foundation for the Support of Science and Technology in Pernambuco (FACEPE - Brazil)
+#### This study has received funding from the Center for Advanced Internet Studies (CAIS) via the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen & Foundation for the Support of Science and Technology in Pernambuco (FACEPE - Brazil)
 
 ### CAIS Fellowship Report | #OccupyEstelita: The Emergence of Identity as Part of Political Performativity in the Use of Facebook Events by Social Movements 
 <br/>
