@@ -4,7 +4,7 @@ excerpt: "This research project aimed at exploring the ways in which the legacy 
 This study was conducted as part of a placement at the British Library (UK Web Archive - UKWA) under the project CLEOPATRA.<br/><br/><img src='/images/webarchive.png'>"
 collection: portfolio
 ---
-###### This study was conducted under the CLEOPATRA project. It has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 812997.
+###### This study was conducted under the CLEOPATRA project. It has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 812997, and the Center for Advanced Internet Studies (CAIS) via the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen (2023).
 
 ### Blogposts
 
