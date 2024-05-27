@@ -9,11 +9,11 @@ redirect_from:
 ---
 ### About me
 
-I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I also hold the post of editor of the Programming Historian in English, with which I have previously collaborated as [reviewer](https://programminghistorian.org/pt/licoes/introducao-jupyter-notebooks) and [translator](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados).  
+I am a PhD student in Digital Humanities at the [School of Advanced Study](https://www.sas.ac.uk/digital-humanities/dhrh/people/mello), University of London. I also hold the post of editor of the [Programming Historian in English](https://programminghistorian.org/en/project-team).
 
-I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I worked over the last four years at the School of Advanced Study, University of London, as an early-stage researcher, where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. I've also been a research fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) in Bochum, Germany. During my PhD, I have worked as visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). 
+I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I have been employed as an early-stage researcher (2019 - 2023) at the School of Advanced Study, University of London, where I joined the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. I've also been a research fellow at the Center for Advanced Internet Studies ([CAIS](https://www.cais-research.de/fellows/caio-mello/)) in Bochum, Germany (2018 and 2023). During my PhD, I worked as a visiting researcher at the [UK Web Archive](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html)/British Library and [VICO Research & Consulting](https://vico-research.com/). 
 
-Alongside my main activities as a researcher, I sporadically write [news stories](https://www.clippings.me/caiocmello). My main interests as a journalist are history and arts. When not reading, writing or coding, I'm usually playing music or looking for a nice pool in the area to jump in.  
+Alongside my main activities as a researcher, I sporadically write [news stories](https://www.clippings.me/caiocmello). My main interests as a journalist are history and the arts. I have also been engaged in translation and revisions (Portuguese-into-English & English-into-Portuguese). I have translated [lessons](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) for the Programming Historian and revised museum labels for the Ricardo Brennand Institute (Recife, Brazil). When not reading, writing or coding, I'm usually playing music or looking for a nice pool in the area to jump in.  
 
 <br>
 
@@ -25,14 +25,6 @@ My main research interests lie in the fields of digital methods, Natural Languag
 _Nationalism, internationalism and sporting identity: the London and Rio Olympics_
 
 My research explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. This research is conducted under the supervision of [Professor Jane Winters](https://research.sas.ac.uk/search/staff/126/professor-jane-winters) and [Martin Steer](https://research.sas.ac.uk/search/staff/405/mr-marty-steer/). The study is part of the CLEOPATRA project, which aims to explore major events that influence and shape our lives and our societies through advanced cross-lingual processing of textual and visual information.  
-
-- ### at CAIS
-
-_Interpreting sentiment analysis outputs to categorise emotions in news articles_
-
-Sentiment analysis (SA) is one of the techniques commonly used in Natural Language Processing. Although it has been mostly applied to twitter data or customer feedback to track reception of products, researchers in the humanities have been using the algorithms to explore other kinds of text, such as news articles to understand the tone in which some media events are narrated. This kind of use of the SA present several challenges. Questions arise on to what extent the SA scores are reliable or how they can be used for interpretation (qualitative analysis) and discourse analysis. This project aims to investigate how these techniques have been applied to the study of media events, identifying its limitations and potentialities, making use of explainable AI and qualitative analysis of SA outputs in a multilingual text corpus.
-
-<br>
 
 ### Publications
 
