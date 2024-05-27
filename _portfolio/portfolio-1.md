@@ -1,6 +1,6 @@
 ---
 title: "The archived Olympics: exploring the narratives of Legacy in the UK Web Archive"
-excerpt: "This research project aimed at exploring the way the legacy of the 2012 London Summer Olympic Games has been narrated by news organisations, government websites and activist blogs. 
+excerpt: "This research project aimed at exploring the ways in which the legacy of the 2012 London Summer Olympic Games has been narrated by news organisations, government websites and activist blogs. 
 This study was conducted as part of a placement at the British Library (UK Web Archive - UKWA) under the project CLEOPATRA.<br/><br/><img src='/images/webarchive.png'>"
 collection: portfolio
 ---
