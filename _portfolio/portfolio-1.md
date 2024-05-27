@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the potentials and limitations of Sentiment analysis algorithms for research in the Humanities"
+title: "Unveiling the potentials and limitations of Sentiment analysis algorithms for studying news media"
 excerpt: "This research project aimed at exploring the ways in which the legacy of the 2012 London Summer Olympic Games has been narrated by news organisations, government websites and activist blogs. 
 This study was conducted as part of a placement at the British Library (UK Web Archive - UKWA) under the project CLEOPATRA.<br/><br/><img src='/images/webarchive.png'>"
 collection: portfolio
