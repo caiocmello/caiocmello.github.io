@@ -15,15 +15,15 @@ About: This is the report from a fellowship at the Center of Advanced Internet S
 <br/><br/>
 ### Paper | Facebook Event as a platform to promote engagement in social movements: Theory of performativity applied to social networks
 <br/>
-About: This paper reflects on the application of the Theory of Performativity in complex communication processes emerged from the Social Networks. Austin’s (1975) theory of Speech Acts and the concept of Performativity stated by Butler (1997) are used to develop mechanisms of analysis in utterances that are intrinsic to the Facebook Events' page.
+About: This paper reflects on the application of the Theory of Performativity in complex communication processes that emerged from Social Networks. Austin’s (1975) theory of Speech Acts and the concept of Performativity as formulated by Butler (1997) are used to develop mechanisms of analysis in utterances that are intrinsic to the Facebook Events page.
 <br/>
 
 <object data="https://caiocmello.github.io/files/artigoestelita.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br/><br/>
-### Book Chapter <i>(in Portuguese)</i> | Performativity and conflicts between the ocupation of real and virtual spaces: a study of the Facebook Events' platform 
+### Book Chapter <i>(in Portuguese)</i> | Performativity and conflicts between the occupation of real and virtual spaces: a study of the Facebook Events platform 
 <br/>
-About: This book chapter is the result of a Master's thesis, investigating the tension between online engagement in social movements versus the in-person presence in physical spaces like demonstrations on the streets.   
+About: This book chapter is the result of a Master's thesis, investigating the tension between online engagement in social movements versus in-person presence in physical spaces like demonstrations on the streets.   
 <br/>
 
 <object data="https://repositorio.ufba.br/bitstream/ri/26089/1/MobilidadeEspacialidadesAlteridades-EDUFBA-2018.pdf" width="1000" height="1000" type='application/pdf'></object>
