@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the potentials and limitations of Sentiment analysis algorithms for studying news media"
+title: "Unveiling the potentials and limitations of Sentiment analysis algorithms to study news media"
 excerpt: "Here you will find some outputs of my research on the use of sentiment analysis algorithms to study news coverage of events.<br/><br/><img src='/images/newssent.jpg'>"
 collection: portfolio
 ---
