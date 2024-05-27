@@ -12,3 +12,6 @@ About: This study aims to present an approach to the challenges of working with 
 
 <object data="https://caiocmello.github.io/files/paper_sentiment.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+
+<embed src="https://huggingface.co/spaces/sentdiario/Sentdiario" style="width:500px; height: 300px;">
+
