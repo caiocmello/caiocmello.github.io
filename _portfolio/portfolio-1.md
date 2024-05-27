@@ -1,6 +1,6 @@
 ---
 title: "Unveiling the potentials and limitations of Sentiment analysis algorithms for studying news media"
-excerpt: "Here you will find some of the outputs of my research on .<br/><br/><img src='/images/webarchive.png'>"
+excerpt: "Here you will find some of the outputs of my research on .<br/><br/><img src='/images/newssent.jpg'>"
 collection: portfolio
 ---
 ###### This study was conducted under the CLEOPATRA project. It has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 812997, and the Center for Advanced Internet Studies (CAIS) via the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen (2023).
