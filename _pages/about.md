@@ -15,8 +15,6 @@ I hold a BA in Journalism and a MA in Communication, both from the Universidade 
 
 Alongside my main activities as a researcher, I sporadically write [news stories](https://www.clippings.me/caiocmello). My main interests as a journalist are history and the arts. I have also been engaged in translation and revisions (Portuguese-into-English & English-into-Portuguese). I have translated [lessons](https://programminghistorian.org/pt/licoes/analise-sentimento-exploracao-dados) for the Programming Historian and revised museum labels for the Ricardo Brennand Institute (Recife, Brazil). When not reading, writing or coding, I'm usually playing music or looking for a nice pool in the area to jump in.  
 
-<br>
-
 ### My research
 My main research interests lie in the fields of digital methods, Natural Language Processing techniques (NLP), data visualisation, media studies, urban studies and digital activism. 
 
