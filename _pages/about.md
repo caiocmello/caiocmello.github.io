@@ -51,7 +51,7 @@ My research explores the media coverage of the Olympic Games in a cross-cultural
 - [Dataset](https://zenodo.org/record/6927800#.YxtKdHbMLD4): News headlines of BBC articles published by @BBCBreaking twitter account
 
 <br>
-***
+*****
 
 ### Upcoming Talks & Events
 
